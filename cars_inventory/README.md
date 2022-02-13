@@ -12,3 +12,4 @@
 
 ## To run pytest:
  - docker-compose run web pytest
+ 
